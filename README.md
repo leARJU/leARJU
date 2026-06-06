@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:6a00ff&height=250&section=header&text=Arjun%20PS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Django%20Backend%20Developer%20🚀&descAlignY=55&descAlign=50"/>
+  <img src="https://raw.githubusercontent.com/leARJU/leARJU/main/banner.png" />
 </p>
 
 <h1 align="center">⚡ Hi 👋, I'm Arjun ⚡</h1>
@@ -136,7 +136,7 @@ Location: Kerala, India
 # 💻 Coding Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q3ZmF4cDN3eDZvOGM3aW4ydjVhM3h0Y3JrNGlrMTR3MzY4Y2Y5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/leARJU/leARJU/main/bannergif.gif" width="700"/>
 </p>
 
 ---
